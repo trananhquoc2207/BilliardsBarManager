@@ -1,0 +1,13 @@
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\bin\Debug\QuanLyQuanBida.exe.config
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\bin\Debug\QuanLyQuanBida.exe
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\bin\Debug\QuanLyQuanBida.pdb
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\obj\Debug\QuanLyQuanBida.csprojAssemblyReference.cache
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\obj\Debug\QuanLyQuanBida.Properties.Resources.resources
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\obj\Debug\QuanLyQuanBida.csproj.GenerateResource.cache
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\obj\Debug\QuanLyQuanBida.csproj.CoreCompileInputs.cache
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\obj\Debug\QuanLyQuanBida.exe
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\obj\Debug\QuanLyQuanBida.pdb
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\obj\Debug\QuanLyQuanBida.Login.resources
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\obj\Debug\QuanLyQuanBida.GiaoDienChinh.resources
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\obj\Debug\QuanLyQuanBida.ThongTinTaiKhoan.resources
+E:\WPF\QuanLyQuanBida\QuanLyQuanBida\obj\Debug\QuanLyQuanBida.Admin.resources
